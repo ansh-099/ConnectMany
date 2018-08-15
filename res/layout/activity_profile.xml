@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".Profile">
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:elevation="8dp"
+            android:id="@+id/dp_profile"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="10dp"/>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="7dp"
+            android:layout_marginBottom="80dp"
+            app:cardElevation="3dp"
+            app:cardUseCompatPadding="true">
+
+
+
+            <TextView
+                android:elevation="10dp"
+                android:gravity="center"
+                android:layout_marginLeft="35dp"
+                android:textColor="#000000"
+                android:id="@+id/name_profile"
+                android:layout_marginBottom="170dp"
+                android:layout_gravity="center"
+                android:text="Name"
+                android:textStyle="bold"
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:layout_marginTop="100dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+
+                    <TextView
+                        android:id="@+id/status_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Status"
+                        android:textColor="#000000"
+                        android:textSize="18dp" />
+
+                </LinearLayout>
+                <View
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorPrimaryDark" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="22dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="50dp"
+                        android:text="Work-"
+                        android:textColor="#000000"
+                        android:textSize="18dp" />
+                    <TextView
+
+                        android:textSize="18dp"
+                        android:gravity="center"
+                        android:id="@+id/work_profile"
+                        android:layout_marginLeft="20dp"
+                        android:layout_gravity="center"
+                        android:text="Current Work"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorPrimaryDark" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+
+
+
+                    <TextView
+                        android:textSize="18dp"
+                        android:textColor="#000000"
+                        android:id="@+id/textView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="22dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="50dp"
+                        android:text="Email-"
+                        />
+
+                    <TextView
+                        android:layout_marginLeft="20dp"
+                        android:textSize="18dp"
+                        android:id="@+id/email_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Email"
+                        />
+                </LinearLayout>
+
+                <View
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorPrimaryDark" />
+
+
+
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+                    <TextView
+                        android:text="Age,DOB,Gender-"
+                        android:textSize="18dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp" />
+                    <TextView
+
+                        android:textSize="18dp"
+                        android:id="@+id/age_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Age"
+                        />
+                    <TextView
+                        android:text=","
+                        android:textSize="18dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp" />
+                    <TextView
+                        android:textSize="18dp"
+                        android:id="@+id/dob_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Date Of Birth"
+                        />
+                    <TextView
+                        android:text=","
+                        android:textSize="18dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp" />
+                    <TextView
+
+                        android:textSize="18dp"
+                        android:id="@+id/gender_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Gender"
+                        />
+                </LinearLayout>
+                <View
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorPrimaryDark" />
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp">
+
+                    <TextView
+                        android:textColor="#000000"
+                        android:id="@+id/country_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp"
+                        android:layout_gravity="center"
+                        android:textSize="18dp"
+                        android:gravity="center"
+                        android:text="Country"
+                        />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+    </android.support.design.widget.CoordinatorLayout>
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/fab"
+        android:layout_height="wrap_content"
+        app:fabSize="normal"
+        android:src="@drawable/ic_settings_black_24dp"
+        app:layout_anchor="@id/bottom_bar"
+        />
+    <android.support.design.bottomappbar.BottomAppBar
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom"
+        android:backgroundTint="@color/colorPrimary"
+        app:fabAttached="true"
+        app:fabAlignmentMode="end"
+        android:layout_height="@dimen/mtrl_bottomappbar_height" />
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>
