@@ -32,6 +32,7 @@ Have a watch on activities happening around you.
 <td><img src = "https://user-images.githubusercontent.com/35291991/51045162-efb93880-15e8-11e9-8ef7-065cc296888a.jpg" height = "480" width="230"></td>
         </tr>
 </table>  
+
 ## Have features to explore the world </br>
 ConnectMany is here for connecting people all over the globe. Here you can have a conversation with people you dont know and share some extremely important information.
 A social media app is just for connecting people without the means of money, And that is what we provide.
