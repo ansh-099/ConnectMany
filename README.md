@@ -9,7 +9,7 @@
 This is an Android project inspired by the rise of social networking sites in todays world, mirroring features of top social networking sites. <br />
 Download the app from the given link and start posting ! <br />
 
-<a href='https://play.google.com/store/apps/details?id=com.connect.ansh0.connectmany'><img alt='Get it on Google Play' src='https://user-images.githubusercontent.com/35291991/93025025-5b527500-f618-11ea-8026-1cd542430740.jpg' width="10%" height="10%"/><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%" height="30%"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.connect.ansh0.connectmany'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%" height="30%"/></a>
 
 ### All used is
  * [Firebase Authentication](https://firebase.google.com/docs/auth)
