@@ -11,7 +11,7 @@ Download the app from the given link and start posting ! <br />
 
 <a href='https://play.google.com/store/apps/details?id=com.connect.ansh0.connectmany'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%" height="30%"/></a>
 
-### All we used
+### All I used
  * [Firebase Authentication](https://firebase.google.com/docs/auth)
  * [Firebase Realtime Database](https://firebase.google.com/docs/database)
  * [Firebase Cloud Storage](https://firebase.google.com/docs/storage)
