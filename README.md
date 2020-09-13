@@ -3,6 +3,12 @@ This is a Android project inspired by the rise of social networking sites in tod
 Download the app from the given link and start posting ! <br />
 Playstore link : https://play.google.com/store/apps/details?id=com.connect.ansh0.connectmany <br />
 
+### All used is
+ * Firebase Authentication
+ * Firebase Realtime Database
+ * Material Design
+ * Picasso
+
 ## You can add your profile-  </br> 
 ![unnamed](https://user-images.githubusercontent.com/35291991/51045162-efb93880-15e8-11e9-8ef7-065cc296888a.jpg) </br>
 Watch the profile of people and get to know their current status.
