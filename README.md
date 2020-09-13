@@ -13,7 +13,7 @@ Watch the profile of people and get to know their current status.
 Have a watch on activities happening around you.
  </br>
 
-# Have some cool features to explore the world - </br>
+# Have features to explore the world - </br>
 ![unnamed-2](https://user-images.githubusercontent.com/35291991/51045359-6b1aea00-15e9-11e9-8ca2-41fb1e92a106.jpg) </br> </br>
 ConnectMany is here for connecting people all over the globe. Here you can have a conversation with people you dont know and share some extremely important information.
 A social media app is just for connecting people without the means of money, And that is what we provide.
