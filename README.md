@@ -28,9 +28,9 @@ Have a watch on activities happening around you.
  </br>
 <table>
         <tr>
-<td><img src = "https://user-images.githubusercontent.com/35291991/51045359-6b1aea00-15e9-11e9-8ca2-41fb1e92a106.jpg" height = "480" width="230"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/51045276-360e9780-15e9-11e9-943f-d98e71ff6f59.jpg" height = "480" width="230"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/51045162-efb93880-15e8-11e9-8ef7-065cc296888a.jpg" height = "480" width="230"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/51045359-6b1aea00-15e9-11e9-8ca2-41fb1e92a106.jpg" height = "460" width="240"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/51045276-360e9780-15e9-11e9-943f-d98e71ff6f59.jpg" height = "460" width="240"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/51045162-efb93880-15e8-11e9-8ef7-065cc296888a.jpg" height = "460" width="240"></td>
         </tr>
 </table>  
 
