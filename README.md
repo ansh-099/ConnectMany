@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-android-blue.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
-### Just enough to connect you all over the world.
+### Just enough to connect you to all over the world.
 This is an Android project inspired by the rise of social networking sites in todays world, mirroring features of top social networking sites. <br />
 Download the app from the given link and start posting ! <br />
 
