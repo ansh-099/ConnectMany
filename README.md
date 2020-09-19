@@ -1,7 +1,7 @@
 # Social Media
-[![Build Status](https://travis-ci.org/rob729/Minimal_ToDo.svg?branch=master)](https://travis-ci.org/rob729/Minimal_ToDo)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/346c2ba7d2d841a48fc83734e3d2d682)](https://app.codacy.com/app/rob729/Minimal_ToDo?utm_source=github.com&utm_medium=referral&utm_content=rob729/Minimal_ToDo&utm_campaign=Badge_Grade_Dashboard)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c462858751a234cdcd08/maintainability)](https://codeclimate.com/github/rob729/Minimal_ToDo/maintainability)
+![Build Status](https://travis-ci.org/rob729/Minimal_ToDo.svg?branch=master)
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/346c2ba7d2d841a48fc83734e3d2d682)
+![Maintainability](https://api.codeclimate.com/v1/badges/c462858751a234cdcd08/maintainability)
 [![Platform](https://img.shields.io/badge/platform-android-blue.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
